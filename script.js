@@ -1,11 +1,15 @@
-function generatelist() {
+function generatelist()
+{
     var xhttp = new XMLHttpRequest();
 
-    xhttp.onreadystatechange = function() {
-        if (this.readyState == 4 && this.status == 200) {
+    xhttp.onreadystatechange = function()
+    {
+        if (this.readyState == 4 && this.status == 200)
+        {
             var response = JSON.parse(this.responseText);
             var output = "";
-            for (var i = 0; i < response.length; i++) {
+            for (var i = 0; i < response.length; i++)
+            {
                 output += "<tr>\n";
                 output += "<th scope=\"row\">" + response[i].serialNumber +"</th>\n";
                 output += "<td>" + response[i].name +"</td>\n";
