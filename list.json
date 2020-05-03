@@ -1,0 +1,82 @@
+[
+    {
+        "serialNumber" : "1",
+        "name" : "Rice",
+        "quantity" : "25",
+        "unit"  : "Kg",
+        "department" : "Grocery",
+        "notes" : "kuruva"  
+    },
+    {
+        "serialNumber" : "2",
+        "name" : "Atta",
+        "quantity" : "5",
+        "unit"  : "Kg",
+        "department" : "Grocery",
+        "notes" : "aashirvad"
+    },
+    {
+        "serialNumber" : "3",
+        "name" : "Coconut oil",
+        "quantity" : "5",
+        "unit"  : "Ltr",
+        "department" : "Grocery",
+        "notes" : "kera"
+    },
+    {
+        "serialNumber" : "4",
+        "name" : "Banana",
+        "quantity" : "3",
+        "unit"  : "Kg",
+        "department" : "Fruits",
+        "notes" : "nendran"
+    },
+    {
+        "serialNumber" : "5",
+        "name" : "Onion",
+        "quantity" : "3",
+        "unit"  : "Kg",
+        "department" : "Vegetables",
+        "notes" : "savala"
+    },
+    {
+        "serialNumber" : "6",
+        "name" : "Chilly powder",
+        "quantity" : "500",
+        "unit"  : "Gram",
+        "department" : "Grocery",
+        "notes" : "rohini"
+    },
+    {
+        "serialNumber" : "7",
+        "name" : "Tea powder",
+        "quantity" : "500",
+        "unit"  : "Gram",
+        "department" : "Grocery",
+        "notes" : "kannandevan"
+    },
+    {
+        "serialNumber" : "8",
+        "name" : "Sanitizer",
+        "quantity" : "500",
+        "unit"  : "ML",
+        "department" : "Cleaning&Household",
+        "notes" : "lifebuoy"
+    },
+    {
+        "serialNumber" : "9",
+        "name" : "Toothpaste",
+        "quantity" : "2",
+        "unit"  : "numbers",
+        "department" : "Beauty&Hygien",
+        "notes" : "colgate"
+    },
+    {
+        "serialNumber" : "10",
+        "name" : "Soap",
+        "quantity" : "3",
+        "unit"  : "numbers",
+        "department" : "Beauty&Hygien",
+        "notes" : "lux"
+    }
+]
